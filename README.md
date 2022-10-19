@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshwardhan-patil&label=Profile%20views&color=0e75b6&style=flat" alt="harshwardhan-patil" /> </p>
 
-- 🌱 I’m currently learning **React js**
-
 - 📫 How to reach me **harshp3302@gmail.com**
 
 <h2 align="left">Connect with me:</h3>
